@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\cc33d8148644034b18db0af1382c61db33ddcde5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_8edfdd8cf58be0d4a160f5da4f04226dde32c929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\06bc7fec14115e2c94bde0ef413512932dab7d28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_16db7aa76e9c8a85048751c6c465c594519e0ec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8def43d12e61a6ff4df59b2d6e2f518967fb9856\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_80ccc24de7da0b2eea0e48896256a87b30eb6b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f01d5066ada3a68757a8c19db74dc222c9a72d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ca7c421d8c3f470acfdf65ae6e361c793bb6ff10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_721ea294a5a66b4162478deec12703e557e8f697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fc1efd896d02916566f42e091934ea657f5a4210\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_ab8363dc5628b551a54182e6c4692efe5d0c96d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e905a7b3e29aaf99201cdf3239dd16eaf9c284a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_52575e9c0c2f4b023bc5e28fa0d15e475e8e45c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8015253bdec306d6022015406312c7d521227911\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_7d79ad87b2a4ef79ae16ab890f712cf5999ad1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\745a7c34f803d3fe542fd26a2dfc95f1b68ad334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_7e9cc0d8a929590abc20f024e3a4d8537e86ae8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f6022ff36041d47d5e89830b1852d5193166e75b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_b412517784af79012d19a78e39256d485d42e390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f07ae8c28f02e6aa6f12bf3d68ad0afc3ac44b65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cd5cbcbb2f2b43572076b5b7b00fc5c21cfc099">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_7510c5180ae1aad5608ebf127bf371201941acde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program Files\Android\Android Studio3\gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_445defda296a5f7e446a0fc5bf726cbb4b7f2493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\76a4dcb5bbfce388f435183c0324a095cb8eb451\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_fa6c5bd344ea684cd65e88fd390c8e372d1fe7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fbf5dae567a105bb8daf0da71e93f69d6f2d3d70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf320b1bb8f41670643f1db27bc8b6654ff49e95">
+        <dex dex="D:\MyProject\2017\concult09\ImageNice9Layout-master\app\build\intermediates\pre-dexed\debug\classes_5d93c04906a1f76435b28e12aaa3c298e1cec989.jar" />
+    </item>
+
+</items>
